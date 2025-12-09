@@ -1,2 +1,0 @@
-# README
-Sample README content.
