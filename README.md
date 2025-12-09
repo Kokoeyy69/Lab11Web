@@ -48,7 +48,4 @@ CREATE TABLE artikel (
 ```
 
 ## Hasil
-✔ CRUD Artikel berjalan  
-✔ Routing berfungsi  
-✔ Template bekerja  
-✔ Form dinamis memakai class Form  
+<img width="1366" height="768" alt="Screenshot from 2025-12-09 18-43-08" src="https://github.com/user-attachments/assets/ddb626b4-f583-4f77-b33c-f421f897d111" />
